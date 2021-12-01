@@ -1,4 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to dehydrate
+
+Remove water molecules on a trajectory file with the help of cpptraj (Amber)
+
+```usage dehydrate.pl parameter.prmtop trajectory.nc [Y]
+
+The goal of this soft is to remove water molecules from a molecular dynamics trajectory. This way, the trajectory requires less disk space. Beware, if you add the 'Y' optional tag at the end of the command file, the input trajectory file will be removed, this procedure cannot be undone.
+
+At the end, you will get two new files (prmtop and nc) with the DRY prefix.
 
 You can use the [editor on GitHub](https://github.com/CTM-ITODYS/dehydrate/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
