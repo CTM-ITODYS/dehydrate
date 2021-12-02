@@ -1,6 +1,6 @@
 ![illustration](illustration_dehydrate.png)
 
-## Welcome to dehydrate
+## Description:
 
 Remove water molecules on a trajectory file with the help of cpptraj (Amber)
 
@@ -14,8 +14,15 @@ At the end, you will get two new files (prmtop and nc) with the DRY prefix.
 
 ## Sources:
 
-[Link](https://github.com/CTM-ITODYS/dehydrate/archive/refs/tags/1.0.zip)
+[![link zip](icone_zip.png)](https://github.com/CTM-ITODYS/dehydrate/archive/refs/tags/1.0.zip)
+[![link targz](icone_tar.gz.png)](https://github.com/CTM-ITODYS/dehydrate/archive/refs/tags/1.0.tar.gz)
+
+[Link zip](https://github.com/CTM-ITODYS/dehydrate/archive/refs/tags/1.0.zip)
 [https://github.com/CTM-ITODYS/dehydrate/archive/refs/tags/1.0.tar.gz]
+
+## Contact:
+
+[![email](icone_email.png)](mailto:florent.barbault@u-paris.fr)
 
 
 You can use the [editor on GitHub](https://github.com/CTM-ITODYS/dehydrate/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
