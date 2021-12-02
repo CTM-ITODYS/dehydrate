@@ -1,3 +1,5 @@
+https://github.com/CTM-ITODYS/dehydrate/blob/gh-pages/illustration_dehydrate.png
+
 ## Welcome to dehydrate
 
 Remove water molecules on a trajectory file with the help of cpptraj (Amber)
