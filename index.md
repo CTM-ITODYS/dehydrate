@@ -12,7 +12,7 @@ At the end, you will get two new files (prmtop and nc) with the DRY prefix.
 
 ## Sources:
 
-[https://github.com/CTM-ITODYS/dehydrate/archive/refs/tags/1.0.zip]
+[Link](https://github.com/CTM-ITODYS/dehydrate/archive/refs/tags/1.0.zip)
 [https://github.com/CTM-ITODYS/dehydrate/archive/refs/tags/1.0.tar.gz]
 
 
