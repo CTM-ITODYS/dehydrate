@@ -10,6 +10,12 @@ The goal of this soft is to remove water molecules from a molecular dynamics tra
 
 At the end, you will get two new files (prmtop and nc) with the DRY prefix.
 
+## Sources:
+
+[https://github.com/CTM-ITODYS/dehydrate/archive/refs/tags/1.0.zip]
+[https://github.com/CTM-ITODYS/dehydrate/archive/refs/tags/1.0.tar.gz]
+
+
 You can use the [editor on GitHub](https://github.com/CTM-ITODYS/dehydrate/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
