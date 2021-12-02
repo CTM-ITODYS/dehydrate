@@ -1,4 +1,4 @@
-![Image](https://github.com/CTM-ITODYS/dehydrate/blob/gh-pages/illustration_dehydrate.png)
+![illustration](illustration_dehydrate.png)
 
 ## Welcome to dehydrate
 
