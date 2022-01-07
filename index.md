@@ -12,7 +12,7 @@ If you add the 'Y' optional tag at the end of the command file, the input trajec
 ```markdown
 dehydrate.pl parameter.prmtop trajectory.nc Y
 ```
-At the end, you will get two new files (prmtop and nc) with the DRY prefix.
+At the end, you will get two new files (prmtop and nc) with the DRY prefix. You may add this script to your $PATH environment variable.
 
 ## Sources:
 
